@@ -56,7 +56,7 @@ Just double click to run it
 ```
 To use it with Stream Deck
 
-Assign run_on.vbs & run_off.vbs to any macro key or Stream Deck button
+Assign silent_on.vbs & silent_off.vbs to any macro key or Stream Deck button
 Hint : Add open Button from System in the side bar
 ```
 ## Important Note !!
